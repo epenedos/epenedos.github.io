@@ -1,7 +1,1 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Openshift Bible</h1>
-<p></p>
-</body>
-</html>
+## OpenShift Bible
